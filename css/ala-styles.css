@@ -37,7 +37,7 @@ body{background-color: white;padding-top: 0px;}
 
 .menu-bottom .subitem {
     color: #868695;
-    font-size: 12px;
+    font-size: 13px;
     text-align: center;
     line-height: 1.5;
     font-weight: 700;
@@ -46,7 +46,7 @@ body{background-color: white;padding-top: 0px;}
 
 .menu-bottom .subitem a {
     color: #898989;
-    font-size: .9rem;
+    font-size: 13rem;
     text-align: center;
     line-height: 2;
     font-style: normal;
