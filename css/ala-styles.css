@@ -12,8 +12,62 @@ body{background-color: white;padding-top: 0px;}
 #main{padding: 0 0 2em 0;}
 /* #main { margin: 25px 0 15px 0; } */
 
-/* Typography
-================================= */
+/*.... INICIO CUSTUMIZAÇÃO SIBBR .....*/
+.parceiros {padding: 20px 5px !important; text-align: center}
+
+.menu-bottom .item, .menu-bottom .item a {
+    font-size: 12px;
+    text-align: center;
+    line-height: 3;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.menu-bottom .item {
+    color: #565656 !important;
+}
+.menu-bottom .item, .menu-bottom .item a {
+    color: #FFF;
+    font-size: 14px;
+    text-align: center;
+    line-height: 3;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.menu-bottom .subitem {
+    color: #868695;
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.5;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.menu-bottom .subitem a {
+    color: #898989;
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 2;
+    font-style: normal;
+    font-weight: 400;
+}
+
+footer {
+    background-color: #e7e7e7;
+}
+
+
+.menu-bottom {
+    margin-top: 10pt;
+    padding: 15px;
+    background: #E7E7E7;
+    border-top: 1px solid #dbdbdb;
+}
+
+/*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
+
+/* Typography ================================= */
 
 p.lead {font-size: 24px;}
 p.lead.sharing {font-size:initial;}
