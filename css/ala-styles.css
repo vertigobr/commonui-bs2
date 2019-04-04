@@ -46,12 +46,13 @@ body{background-color: white;padding-top: 0px;}
 
 .menu-bottom .subitem a {
     color: #898989;
-    font-size: 13rem;
+    font-size: 13px;
     text-align: center;
     line-height: 2;
     font-style: normal;
     font-weight: 400;
 }
+
 .navbar {
     padding-bottom: 10px; 
     border-width: 1px 0;
