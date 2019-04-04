@@ -32,7 +32,7 @@ body{background-color: white;padding-top: 0px;}
     text-align: center;
     line-height: 3;
     font-weight: 700;
-    font-style: italic;
+    font-style: normal;
 }
 
 .menu-bottom .subitem {
@@ -46,7 +46,7 @@ body{background-color: white;padding-top: 0px;}
 
 .menu-bottom .subitem a {
     color: #898989;
-    font-size: 1.2rem;
+    font-size: .9rem;
     text-align: center;
     line-height: 2;
     font-style: normal;
@@ -57,11 +57,14 @@ footer {
     background-color: #e7e7e7;
 }
 
-
 .menu-bottom {
     margin-top: 10pt;
     padding: 15px;
     background: #E7E7E7;
+    border-top: 1px solid #dbdbdb;
+}
+
+.partners-list {
     border-top: 1px solid #dbdbdb;
 }
 
