@@ -52,6 +52,15 @@ body{background-color: white;padding-top: 0px;}
     font-style: normal;
     font-weight: 400;
 }
+.navbar {
+    padding-bottom: 10px; 
+    border-width: 1px 0;
+    border-radius: 0px;
+    background-color: white;
+    border-top: 4px solid #72B05F;
+    border-bottom: 2px solid #DBDBDB;
+    margin-bottom: 0px;
+}
 
 footer {
     background-color: #e7e7e7;
