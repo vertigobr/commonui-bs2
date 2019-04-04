@@ -1,0 +1,8 @@
+body {
+    padding-top: 94px;
+}
+
+@media only screen and (min-width: 1200px)
+#global-search #biesearch {
+    width: 94.5%;
+}
