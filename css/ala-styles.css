@@ -245,3 +245,7 @@ section#breadcrumb {display: none;}
         display: none;
     }
 }
+
+.body{
+    padding-top: 115px;
+}
