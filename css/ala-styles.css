@@ -96,22 +96,22 @@ footer {
     border-top: 1px solid #dbdbdb;
 }
 
-.pesquisar {
-    padding: 10px;
+#global-search #biesearch {
+    width: 92.5%;
 }
 
 .no-gbif {
     background: #e0e0e0;
-    height: 25px;
+    height: 24px;
     font-size: 15px;
-    margin-top: 10px;
-    padding: 15px;
+    margin-top: 0px;
+    padding: 10px;
     font-weight: bold;
     text-align: center;
     border: 1px solid #c3c3c3;
     border-width: 1px 1px 1px 0;
     text-transform: uppercase;
-    margin-left: -10px;
+    margin-left: 0px;
 }
 
 /*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
