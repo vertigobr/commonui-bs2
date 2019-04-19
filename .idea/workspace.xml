@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78b6dd9f-2f1d-4cfc-8e57-61f13f5096a4" name="Default Changelist" comment="" />
+    <list default="true" id="78b6dd9f-2f1d-4cfc-8e57-61f13f5096a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ala-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ala-styles.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,18 +16,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/banner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="98" selection-end-column="6" />
+            <state relative-caret-position="289">
+              <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
+                <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#nav#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#nav#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/head.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -46,6 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/head.html" />
+        <option value="$PROJECT_DIR$/css/ala-styles.css" />
         <option value="$PROJECT_DIR$/banner.html" />
       </list>
     </option>
@@ -69,6 +93,11 @@
             <path>
               <item name="commonui-bs2" type="b2602c69:ProjectViewProjectNode" />
               <item name="commonui-bs2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="commonui-bs2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commonui-bs2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,12 +133,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555699943654</updated>
-      <workItem from="1555699948531" duration="1224000" />
+      <workItem from="1555699948531" duration="1971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1224000" />
+    <option name="totallyTimeSpent" value="1971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -138,15 +167,32 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/banner.html">
+    <entry file="file://$PROJECT_DIR$/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="98" selection-end-column="6" />
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/head.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
+            <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#nav#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#nav#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
