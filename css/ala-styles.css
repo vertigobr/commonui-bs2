@@ -118,6 +118,9 @@ footer {
     width: 93.5% !important;
 }
 
+nav#breadcrumb li {
+    font-weight: 500;
+}
 /*... Breamdcrumb ...*/
 
 #page-header .row-fluid {
