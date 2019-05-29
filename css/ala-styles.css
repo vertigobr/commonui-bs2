@@ -111,8 +111,12 @@ footer {
     border: 1px solid #c3c3c3;
     border-width: 1px 1px 1px 0;
     text-transform: uppercase;
-    margin-left: 0px;
+    margin-left: 9px;
     color: #3c3c3c;
+}
+
+#global-search #biesearch {
+    width: 93.5% !important;
 }
 
 /*... Breamdcrumb ...*/
@@ -126,11 +130,16 @@ footer {
 }
 
 nav#breadcrumb {
-    padding-left: 10px;
+    padding-left: 15px;
 }
 
-nav#breadcrumb h2{
-    padding-left: 10px;
+#breadcrumb + h2 {
+    color: #4b9e44;
+    padding-left: 15px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 20px;
 }
 
 /*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
