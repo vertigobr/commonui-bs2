@@ -3,61 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78b6dd9f-2f1d-4cfc-8e57-61f13f5096a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ala-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ala-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/CSIRO_Solid_RGB.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/CSIRO_Solid_RGB.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/NCRIS_mono.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/NCRIS_mono.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aus_initiative_stacked.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/aus_initiative_stacked.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/glyphicons-halflings.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/glyphicons-halflings.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/accordion.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/accordion.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/alerts.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/alerts.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/bootstrap.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/bootstrap.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/breadcrumbs.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/breadcrumbs.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/button-groups.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/button-groups.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/buttons.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/buttons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/carousel.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/carousel.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/close.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/close.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/code.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/code.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/component-animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/component-animations.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/dropdowns.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/dropdowns.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/forms.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/forms.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/grid.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/grid.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/hero-unit.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/hero-unit.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/labels-badges.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/labels-badges.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/layouts.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/layouts.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/media.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/media.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/modals.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/modals.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/navbar.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/navbar.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/navs.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/navs.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/pager.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/pager.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/pagination.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/pagination.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/popovers.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/popovers.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/progress-bars.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/progress-bars.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/reset.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/reset.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive-1200px-min.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive-1200px-min.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive-767px-max.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive-767px-max.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive-768px-979px.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive-768px-979px.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive-navbar.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive-navbar.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive-utilities.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive-utilities.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/responsive.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/responsive.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/scaffolding.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/scaffolding.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/sprites.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/sprites.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tables.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/tables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/css-tests.css" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/css-tests.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/css-tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/css-tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/forms-responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/forms-responsive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/navbar-fixed-top.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/navbar-fixed-top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/navbar-static-top.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/navbar-static-top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tests/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/less/tests/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/thumbnails.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/thumbnails.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/tooltip.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/tooltip.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/type.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/type.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/utilities.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/utilities.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/wells.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/wells.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/banner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state>
               <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
@@ -85,27 +30,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -193,18 +124,18 @@
       <option name="presentableId" value="Default" />
       <updated>1555699943654</updated>
       <workItem from="1555699948531" duration="6184000" />
-      <workItem from="1559096749873" duration="6478000" />
+      <workItem from="1559096749873" duration="8805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12662000" />
+    <option name="totallyTimeSpent" value="14989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15595363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,7 +160,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/banner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state>
           <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
           <folding>
             <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
@@ -240,13 +171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -254,6 +178,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
