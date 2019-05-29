@@ -131,6 +131,14 @@ nav#breadcrumb li {
     margin-bottom: 15px;
 }
 
+#page-header .row-fluid .span8 h2{
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    padding: 10px 0px 10px 0px;
+    height: 20px;
+    margin-bottom: 15px;
+}
+
 header#page-header {
     margin-bottom: 10px;
 }
