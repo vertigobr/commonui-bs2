@@ -77,7 +77,7 @@ body {
     border-radius: 0px;
     background-color: white;
     border-top: 4px solid #72B05F !important;
-    border-bottom: 2px solid #DBDBDB !important;
+    border-bottom: 2px solid #ffffff !important;
     margin-bottom: 0px;
 }
 
@@ -113,6 +113,24 @@ footer {
     text-transform: uppercase;
     margin-left: 0px;
     color: #3c3c3c;
+}
+
+/*... Breamdcrumb ...*/
+
+#page-header .row-fluid {
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    padding: 10px 0px 10px 0px;
+    /* padding-top: 10px; */
+    margin-bottom: 15px;
+}
+
+nav#breadcrumb {
+    padding-left: 10px;
+}
+
+nav#breadcrumb h2{
+    padding-left: 10px;
 }
 
 /*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
