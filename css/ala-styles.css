@@ -167,6 +167,15 @@ nav#breadcrumb {
 
     .no-gbif {
         font-size: 10px;
+        margin-left: -1px;
+    }
+
+    .search-form-icon .form-control {
+        padding-left: 0px;
+        float: left;
+        font-weight: normal;
+        padding: 10px 0px 10px 50px;
+        width: 91%;
     }
 }
 
