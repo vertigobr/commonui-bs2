@@ -161,7 +161,7 @@ nav#breadcrumb {
 }
 
 .search-form-icon .form-control {
-    padding: 10px 0px 10px 40px;
+    padding: 10px 0 10px 40px !important;
 }
 
 @media (max-width: 979px) and (min-width: 768px) {
