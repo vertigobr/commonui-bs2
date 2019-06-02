@@ -96,10 +96,6 @@ footer {
     border-top: 1px solid #dbdbdb;
 }
 
-#global-search #biesearch {
-    width: 92.5% !important;
-}
-
 .pesquisar {
     margin-left: 0px;
 }
@@ -119,9 +115,6 @@ footer {
     color: #3c3c3c;
 }
 
-#global-search #biesearch {
-    width: 93.5% !important;
-}
 
 nav#breadcrumb li {
     font-weight: 500;
@@ -168,12 +161,9 @@ nav#breadcrumb {
 }
 
 @media (max-width: 979px) and (min-width: 768px) {
-    .pesquisar {
-        font-size: 10px;
-    }
 
-    .no-gbif {
-        font-size: 10px;
+    .container#main, .container-fluid#main {
+        margin-bottom: 2em;
     }
 }
 

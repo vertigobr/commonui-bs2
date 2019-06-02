@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78b6dd9f-2f1d-4cfc-8e57-61f13f5096a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/banner.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/ala-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ala-styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/banner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state relative-caret-position="221">
+              <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
                 <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#!!top" />
@@ -33,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+            <state relative-caret-position="353">
+              <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,6 +67,7 @@
       <find>ala-dev.vertigo.com.br</find>
       <find>https://portal-espacial-hub.ala-dev.vertigo.com.br/spatial-hub/</find>
       <find>ala-bi</find>
+      <find>pesq</find>
     </findStrings>
     <replaceStrings>
       <replace>https://portal-espacial.ala-hml.vertigo.com.br/spatial-hub/</replace>
@@ -82,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/head.html" />
         <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/css/ala-styles.css" />
         <option value="$PROJECT_DIR$/banner.html" />
+        <option value="$PROJECT_DIR$/css/ala-styles.css" />
       </list>
     </option>
   </component>
@@ -148,15 +148,16 @@
       <workItem from="1555699948531" duration="6184000" />
       <workItem from="1559096749873" duration="9256000" />
       <workItem from="1559427046627" duration="1681000" />
-      <workItem from="1559436926279" duration="2135000" />
+      <workItem from="1559436926279" duration="3307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19256000" />
+    <option name="totallyTimeSpent" value="20428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31623933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,17 +199,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/banner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#div#0;n#nav#0;n#!!top" />
             <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#!!top" />
@@ -216,6 +210,13 @@
             <element signature="n#div#0;n#div#0;n#div#1;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ala-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
         </state>
       </provider>
     </entry>
