@@ -161,13 +161,12 @@ nav#breadcrumb {
 }
 
 @media (max-width: 979px) and (min-width: 768px) {
-    .no-gbif {
-        margin-left: 0;
+    .pesquisar {
         font-size: 10px;
     }
 
-    .container#main, .container-fluid#main {
-        padding-top: 2em;
+    .no-gbif {
+        font-size: 10px;
     }
 }
 
