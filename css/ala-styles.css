@@ -160,6 +160,10 @@ nav#breadcrumb {
     margin-top: 20px !important;
 }
 
+.search-form-icon .form-control {
+    padding: 10px 0px 10px 40px;
+}
+
 @media (max-width: 979px) and (min-width: 768px) {
     .pesquisar {
         font-size: 10px;
@@ -170,14 +174,15 @@ nav#breadcrumb {
         margin-left: -1px;
     }
 
+    #main {
+        padding-top: 1em;
+    }
+
     .search-form-icon .form-control {
-        padding-left: 0px;
-        float: left;
-        font-weight: normal;
-        padding: 10px 0px 10px 50px;
-        width: 91%;
+        padding: 10px 0 10px 50px;
     }
 }
+
 
 /*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
 
