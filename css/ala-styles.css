@@ -161,9 +161,16 @@ nav#breadcrumb {
 }
 
 @media (max-width: 979px) and (min-width: 768px) {
+    .no-gbif {
+        margin-left: 0;
+    }
 
     .container#main, .container-fluid#main {
-        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    #global-search #biesearch {
+        width: 88%;
     }
 }
 
