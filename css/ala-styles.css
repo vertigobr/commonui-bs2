@@ -100,6 +100,10 @@ footer {
     width: 92.5% !important;
 }
 
+.pesquisar {
+    margin-left: 0px;
+}
+
 .no-gbif {
     background: #e0e0e0;
     height: 24px;
@@ -161,6 +165,16 @@ nav#breadcrumb {
     font-size: 20px;
     margin-bottom: 15px !important;
     margin-top: 20px !important;
+}
+
+@media (max-width: 979px) and (min-width: 768px) {
+    .pesquisar {
+        font-size: 10px;
+    }
+
+    .no-gbif {
+        font-size: 10px;
+    }
 }
 
 /*.... FIM CUSTUMIZAÇÃO SIBBR .....*/
