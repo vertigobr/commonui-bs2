@@ -108,3 +108,96 @@
 
 <!-- JavaScript funcionamento da barra governo brasileiro -->
 <script type="text/javascript" charset="utf-8" defer="defer" src="https://barra.brasil.gov.br/barra_2.0.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        $("#btnClearSelection").click(function(e) {
+            e.preventDefault();
+            imgvwr.showSpinner("Clearing selection...");
+            $.ajax("/selection/clearSelection").done(function() {
+                location.reload(true);
+                imgvwr.hideSpinner();
+            });
+        });
+
+        $(".chkSelectImage").change(function(e) {
+            var imageId = $(this).closest("[imageId]").attr("imageId");
+            if (imageId) {
+                if ($(this).is(":checked")) {
+                    $.ajax("/selection/ajaxSelectImage/" + imageId).done(function(results) {
+                        updateSelectionContext();
+                    });
+                } else {
+                    $.ajax("/selection/ajaxDeselectImage/" + imageId).done(function(results) {
+                        updateSelectionContext();
+                    });
+                }
+            }
+        });
+
+        $("#btnSelectAllOnPage").click(function(e) {
+            e.preventDefault();
+            selectAllOnPage();
+        });
+
+        $("#btnDeselectAllOnPage").click(function(e) {
+            e.preventDefault();
+            deselectAllOnPage();
+        });
+
+
+        $(".image-thumbnail").each(function() {
+            var imageId = $(this).closest("[imageId]").attr("imageId");
+            if (imageId) {
+                $(this).qtip({
+                    content: {
+                        text: function(event, api) {
+                            $.ajax("/image/imageTooltipFragment/" + imageId).then(function(content) {
+                                    api.set("content.text", content);
+                                },
+                                function(xhr, status, error) {
+                                    api.set("content.text", status + ": " + error);
+                                });
+                        }
+                    }
+                });
+            }
+        });
+
+    });
+
+    function selectAllOnPage() {
+
+        imgvwr.showSpinner("Selecting images on page...");
+        var imageList = $(".thumbnail[imageId]").map(function() {
+            return $(this).attr("imageId");
+        }).get();
+
+        $.post("/selection/ajaxSelectImages", { imageList: imageList } ).done(function() {
+            updateSelectionContext();
+            $(".thumbnail[imageId]").each(function(e) {
+                $(this).find(".chkSelectImage").prop('checked', true);
+            });
+            imgvwr.hideSpinner();
+        });
+    }
+
+    function deselectAllOnPage() {
+
+        imgvwr.showSpinner("Deselecting images...");
+
+        var imageList = $(".thumbnail[imageId]").map(function() {
+            return $(this).attr("imageId");
+        }).get();
+
+        $.post("/selection/ajaxDeselectImages", { imageList: imageList } ).done(function() {
+            updateSelectionContext();
+            $(".thumbnail[imageId]").each(function(e) {
+                $(this).find(".chkSelectImage").prop('checked', false);
+            });
+            imgvwr.hideSpinner();
+        });
+
+    }
+</script>
