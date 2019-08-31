@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -62,6 +62,7 @@
       <workItem from="1563823752940" duration="1435000" />
       <workItem from="1565890905856" duration="1020000" />
       <workItem from="1565965586420" duration="599000" />
+      <workItem from="1567212327494" duration="603000" />
     </task>
     <servers />
   </component>
